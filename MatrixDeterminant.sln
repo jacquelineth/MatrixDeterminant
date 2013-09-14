@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixDeterminant", "MatrixDeterminant\MatrixDeterminant.csproj", "{7885AA16-7F7E-40E0-9FDB-15A0EC6E353E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "New Folder", "New Folder", "{E4230252-9AAB-44C4-B0C3-E4A942A9A66F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructVSClass", "StructVSClass\StructVSClass.csproj", "{EC29BB16-E74B-44AA-AE52-831AFFFA8B0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7885AA16-7F7E-40E0-9FDB-15A0EC6E353E}.Debug|x86.ActiveCfg = Debug|x86
+		{7885AA16-7F7E-40E0-9FDB-15A0EC6E353E}.Debug|x86.Build.0 = Debug|x86
+		{7885AA16-7F7E-40E0-9FDB-15A0EC6E353E}.Release|x86.ActiveCfg = Release|x86
+		{7885AA16-7F7E-40E0-9FDB-15A0EC6E353E}.Release|x86.Build.0 = Release|x86
+		{EC29BB16-E74B-44AA-AE52-831AFFFA8B0C}.Debug|x86.ActiveCfg = Debug|x86
+		{EC29BB16-E74B-44AA-AE52-831AFFFA8B0C}.Debug|x86.Build.0 = Debug|x86
+		{EC29BB16-E74B-44AA-AE52-831AFFFA8B0C}.Release|x86.ActiveCfg = Release|x86
+		{EC29BB16-E74B-44AA-AE52-831AFFFA8B0C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EC29BB16-E74B-44AA-AE52-831AFFFA8B0C} = {E4230252-9AAB-44C4-B0C3-E4A942A9A66F}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = MatrixDeterminant\MatrixDeterminant.csproj
+	EndGlobalSection
+EndGlobal
